@@ -1,3 +1,5 @@
+> **Not part of Ghost.** This is a copy of Apple's App Store Server API library for Go (in-app purchases; it is not related to the Ghost App Store), kept for reference. It is not installed on a Ghost box.
+
 # Apple App Store Server Golang Library
 
 The Golang server library for the [App Store Server API](https://developer.apple.com/documentation/appstoreserverapi) and [App Store Server Notifications](https://developer.apple.com/documentation/appstoreservernotifications).
