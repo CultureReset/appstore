@@ -1,3 +1,14 @@
+> **CultureReset fork of [richzw/appstore](https://github.com/richzw/appstore).** App Store Server API Golang Client.
+>
+> - **Why it is here:** Saved for reference.
+> - **Does anything run from it:** No.
+> - **Changes:** The default branch has no CultureReset commits; it is upstream as of the last sync.
+> - **License:** MIT, from upstream. For updates and issues, use [upstream](https://github.com/richzw/appstore).
+>
+> The upstream README follows unchanged.
+
+---
+
 # Apple App Store Server Golang Library
 
 The Golang server library for the [App Store Server API](https://developer.apple.com/documentation/appstoreserverapi) and [App Store Server Notifications](https://developer.apple.com/documentation/appstoreservernotifications).
